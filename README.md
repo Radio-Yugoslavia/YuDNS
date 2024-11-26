@@ -1,0 +1,2 @@
+# YuDNS
+Resurrecting .YU
